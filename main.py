@@ -10,5 +10,5 @@ class Bird:
 
 
 if __name__=="__main__":    
-    b1=Bird("Hirondelle",16)
+    b1= Bird("Hirondelle",16)
     b1.fly()
