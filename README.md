@@ -1,9 +1,9 @@
 # Portefolio_Python
 ## Explication
 Voici un portefolio python contenant plusieurs classes répartit dans plusieurs fichiers,
-il y a 2 classe:
+il y a 5 classes:
 <ul>
-  **<li>Etudiant</li>**
+  <li>Etudiant</li>
   <li>Classe</li>
   <li>Ecole</li>
   <li>Ville</li>
@@ -13,15 +13,30 @@ Voici une explication de leurs fonctions ainsi que de leurs méthodes réspectiv
 role:Simule un étudiant
 attributs:
 <ul>
-  <li>**-nom**</li>
-  <li>**-prenom**</li>
-  <li>**-age**</li>
+  <li>nom</li>
+  <li>prenom</li>
+  <li>age</li>
 </ul>
 Chaque entitées de la classe **Etudiant** peut être contenue dans la classe **Classe**
 ### **Classe**
 role:Simule une classe
 attributs:
 <ul>
-  <li>**-nom**</li>
-  <li>**-groupe**</li>
+  <li>nom</li>
+  <li>groupe</li>
+</ul>
+Chaque entitées de la classe **Classe** peut être contenue dans la classe **Ecole**
+### **Ecole**
+role:Simule une école
+attributs:
+<ul>
+  <li>nom</li>
+  <li>groupe</li>
+</ul>
+### **Ville**
+role:Simule une ville
+attributs:
+<ul>
+  <li>nom</li>
+  <li>groupe</li>
 </ul>
