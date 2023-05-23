@@ -1,5 +1,7 @@
 from etudiant import Etudiant
-from classe import Classe 
+from classe import Classe
+from ecole import Ecole
+from ville import Ville
 
 def initialisation():
     
@@ -37,8 +39,19 @@ def initialisation():
     c2.view_class()
 
     print("Moyenne d'age des classes de cours:")
-    print(f"M1-IRS:{c1.age_moyen()}\nM2-IRS:{c1.age_moyen()}")   
+    print(f"M1-IRS:{c1.age_moyen()}\nM2-IRS:{c1.age_moyen()}\n\n\n\n")   
 
+    print("Déclaration de l'école:")
+
+    ecole1= Ecole("AFORP",[c1,c2])
+
+
+    print("\nDéclaration de Ville")
+
+    ville1 = Ville("Issy-les-Moulineaux",[ecole1])
+
+    print("\nDéroulé d'une ville généré")
+    ville1.more()
 
 if __name__=="__main__":    
     initialisation()
