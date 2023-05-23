@@ -18,7 +18,7 @@ attributs:
   <li>prenom</li>
   <li>age</li>
 </ul>
-Chaque entitées de la classe **Etudiant** peut être contenue dans la classe **Classe**
+Chaque entitées de la classe ***Etudiant*** peut être contenue dans la classe **Classe**
 ### Classe
 <br/>
 role:Simule une classe
