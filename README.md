@@ -3,8 +3,10 @@
 Voici un portefolio python contenant plusieurs classes répartit dans plusieurs fichiers,
 il y a 2 classe:
 <ul>
-  <li>**Etudiant**</li>
-  <li>**Classe**</li>
+  **<li>Etudiant</li>**
+  <li>Classe</li>
+  <li>Ecole</li>
+  <li>Ville</li>
 </ul>
 Voici une explication de leurs fonctions ainsi que de leurs méthodes réspectives:
 ### **Etudiant**
