@@ -10,6 +10,7 @@ il y a 5 classes:
 </ul>
 Voici une explication de leurs fonctions ainsi que de leurs méthodes réspectives:
 ### Etudiant
+<br/>
 role:Simule un étudiant
 attributs:
 <ul>
@@ -19,6 +20,7 @@ attributs:
 </ul>
 Chaque entitées de la classe **Etudiant** peut être contenue dans la classe **Classe**
 ### Classe
+<br/>
 role:Simule une classe
 attributs:
 <ul>
@@ -27,6 +29,7 @@ attributs:
 </ul>
 Chaque entitées de la classe **Classe** peut être contenue dans la classe **Ecole**
 ### Ecole
+<br/>
 role:Simule une école
 attributs:
 <ul>
@@ -34,6 +37,7 @@ attributs:
   <li>groupe</li>
 </ul>
 ### Ville
+<br/>
 role:Simule une ville
 attributs:
 <ul>
