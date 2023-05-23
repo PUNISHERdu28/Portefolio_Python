@@ -8,6 +8,7 @@ il y a 5 classes:
   <li>Ecole</li>
   <li>Ville</li>
 </ul>
+
 ## Etudiant
 <br/>
 role:Simule un étudiant
@@ -18,6 +19,7 @@ attributs:
   <li>age</li>
 </ul>
 Chaque entitées de la classe ***Etudiant*** peut être contenue dans la classe **Classe**
+
 ## Classe
 <br/>
 role:Simule une classe
