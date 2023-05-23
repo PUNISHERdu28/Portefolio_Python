@@ -1,46 +1,41 @@
 # Portefolio_Python
+
 ## Explication
-Voici un portefolio python contenant plusieurs classes répartit dans plusieurs fichiers,
-il y a 5 classes:
-<ul>
-  <li>Etudiant</li>
-  <li>Classe</li>
-  <li>Ecole</li>
-  <li>Ville</li>
-</ul>
+Voici un portfolio Python contenant plusieurs classes réparties dans plusieurs fichiers. Il y a 4 classes :
+
+- Etudiant
+- Classe
+- Ecole
+- Ville
 
 ## Etudiant
-<br/>
-**role:** Simule un étudiant.
-**attributs:**
-<ul>
-  <li>nom</li>
-  <li>prenom</li>
-  <li>age</li>
-</ul>
-Chaque entitées de la classe **Etudiant** peut être contenue dans la classe **Classe**
+**Rôle :** Simule un étudiant.
+**Attributs :**
+- nom
+- prenom
+- age
+
+Chaque entité de la classe **Etudiant** peut être contenue dans la classe **Classe**.
+
 ## Classe
-**role:** Simule une classe.
-**attributs:**
-<ul>
-  <li>nom</li>
-  <li>groupe_eleve</li>
-</ul>
-Chaque entitées de la classe **Classe** peut être contenue dans la classe **Ecole**
+**Rôle :** Simule une classe.
+**Attributs :**
+- nom
+- groupe_eleve
+
+Chaque entité de la classe **Classe** peut être contenue dans la classe **Ecole**.
+
 ## Ecole
-**role:** Simule une école.
-**attributs:**
-<ul>
-  <li>nom</li>
-  <li>groupe_classe</li>
-</ul>
-Chaque entitées de la classe **Ecole** peut être conenue dans la classe **Ville**
+**Rôle :** Simule une école.
+**Attributs :**
+- nom
+- groupe_classe
+
+Chaque entité de la classe **Ecole** peut être contenue dans la classe **Ville**.
+
 ## Ville
-<br/>
-**role:** Simule une ville.
-**attributs:**
-<ul>
-  <li>nom</li>
-  <li>groupe_Ecole</li>
-</ul>
+**Rôle :** Simule une ville.
+**Attributs :**
+- nom
+- groupe_Ecole
 
