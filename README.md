@@ -8,10 +8,7 @@ il y a 5 classes:
   <li>Ecole</li>
   <li>Ville</li>
 </ul>
-Voici une explication de leurs fonctions ainsi que de leurs méthodes réspectives:
-
-### Etudiant
-
+## Etudiant
 <br/>
 role:Simule un étudiant
 attributs:
@@ -21,34 +18,32 @@ attributs:
   <li>age</li>
 </ul>
 Chaque entitées de la classe ***Etudiant*** peut être contenue dans la classe **Classe**
-
-### Classe
-
+## Classe
 <br/>
 role:Simule une classe
 attributs:
 <ul>
   <li>nom</li>
-  <li>groupe</li>
+  <li>groupe_eleve</li>
 </ul>
 Chaque entitées de la classe **Classe** peut être contenue dans la classe **Ecole**
 
-### Ecole
-
+## Ecole
 <br/>
 role:Simule une école
 attributs:
 <ul>
   <li>nom</li>
-  <li>groupe</li>
+  <li>groupe_classe</li>
 </ul>
+Chaque entitées de la classe **Ecole** peut être conenue dans la classe **Ville**
 
-### Ville
-
+## Ville
 <br/>
 role:Simule une ville
 attributs:
 <ul>
   <li>nom</li>
-  <li>groupe</li>
+  <li>groupe_Ecole</li>
 </ul>
+
