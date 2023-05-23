@@ -18,11 +18,8 @@ il y a 5 classes:
   <li>prenom</li>
   <li>age</li>
 </ul>
-
 Chaque entitées de la classe **Etudiant** peut être contenue dans la classe **Classe**
-
 ## Classe
-<br/>
 **role:** Simule une classe.
 **attributs:**
 <ul>
@@ -30,9 +27,7 @@ Chaque entitées de la classe **Etudiant** peut être contenue dans la classe **
   <li>groupe_eleve</li>
 </ul>
 Chaque entitées de la classe **Classe** peut être contenue dans la classe **Ecole**
-
 ## Ecole
-<br/>
 **role:** Simule une école.
 **attributs:**
 <ul>
@@ -40,7 +35,6 @@ Chaque entitées de la classe **Classe** peut être contenue dans la classe **Ec
   <li>groupe_classe</li>
 </ul>
 Chaque entitées de la classe **Ecole** peut être conenue dans la classe **Ville**
-
 ## Ville
 <br/>
 **role:** Simule une ville.
