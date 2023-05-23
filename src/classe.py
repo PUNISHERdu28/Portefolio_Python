@@ -1,4 +1,5 @@
 class Classe:
+    
     def __init__(self,nom,groupe=[]):
         self.nom=nom
         self.groupe=groupe

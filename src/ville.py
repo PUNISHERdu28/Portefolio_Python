@@ -1,4 +1,4 @@
-from classe import Classe
+from src.classe import Classe
 
 class Ville:
 
