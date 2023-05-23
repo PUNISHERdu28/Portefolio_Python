@@ -11,7 +11,7 @@ il y a 5 classes:
 
 ## Etudiant
 <br/>
-**role:**Simule un étudiant.
+**role:** Simule un étudiant.
 **attributs:**
 <ul>
   <li>nom</li>
@@ -23,7 +23,7 @@ Chaque entitées de la classe **Etudiant** peut être contenue dans la classe **
 
 ## Classe
 <br/>
-**role:**Simule une classe.
+**role:** Simule une classe.
 **attributs:**
 <ul>
   <li>nom</li>
@@ -33,7 +33,7 @@ Chaque entitées de la classe **Classe** peut être contenue dans la classe **Ec
 
 ## Ecole
 <br/>
-**role:**Simule une école.
+**role:** Simule une école.
 **attributs:**
 <ul>
   <li>nom</li>
@@ -43,7 +43,7 @@ Chaque entitées de la classe **Ecole** peut être conenue dans la classe **Vill
 
 ## Ville
 <br/>
-**role:**Simule une ville.
+**role:** Simule une ville.
 **attributs:**
 <ul>
   <li>nom</li>
